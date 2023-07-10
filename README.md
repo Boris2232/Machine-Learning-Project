@@ -10,7 +10,7 @@ For this project, I used RAF-DB and UTK.
 
 
 
-The work-plan:
+Work-plan:
 Tasks:
   0. Prepare the facial datasets 
       -Examine the images and metadata (labels and annotations).
