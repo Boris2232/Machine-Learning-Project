@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-First of all, let's have a quick review of future projects.
+First of all, let's have a quick review of future project.
 
 
 We have three datasets: 
